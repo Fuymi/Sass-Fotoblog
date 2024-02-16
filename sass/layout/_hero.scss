@@ -1,0 +1,47 @@
+.hero{
+    padding-top: 92px;
+}
+
+.hero-list-text{
+    font-family: Ubuntu;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    letter-spacing: 0em;
+    color: $second-color;
+    padding-top: 62px;
+}
+
+.hero-list-title{
+    font-family: Playfair Display;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    color: $therd-color;
+    padding-top: 32px;
+}
+
+.hero-list-subtext{
+    font-family: Playfair Display;
+    width: 100%;
+    max-height: 76px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    color: $therd-color;
+    padding-top: 40px;
+}
+
+.hero-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 65px;
+    flex-wrap: wrap;
+}
+
+.hero-list-item{
+    max-width: 420px;
+}
