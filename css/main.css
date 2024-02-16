@@ -105,6 +105,14 @@ address {
   padding-left: 49px;
   padding-right: 48px;
   margin-top: 90px;
+}
+
+.btn:hover {
+  color: rgb(3, 169, 244);
+  border: 1px rgb(3, 169, 244) solid;
+}
+
+.btn-wrap {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
